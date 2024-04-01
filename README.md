@@ -24,8 +24,8 @@
      - Sorting and selecting top similar movies.
      - Providing top movie recommendations.
 
-
-- The hybrid system combines user-based and item-based recommendation methods.
-- User-based method relies on user similarity to recommend movies.
-- Item-based method suggests similar movies based on characteristics of a highly rated movie.
-- The system aims to provide a diverse and personalized recommendation experience.
+3. **Hybrid Recommendation:**
+   - The hybrid system combines user-based and item-based recommendation methods.
+   - User-based method relies on user similarity to recommend movies.
+   - Item-based method suggests similar movies based on characteristics of a highly rated movie.
+   - The system aims to provide a diverse and personalized recommendation experience.
